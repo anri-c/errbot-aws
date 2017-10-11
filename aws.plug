@@ -1,0 +1,9 @@
+[Core]
+name = aws
+module = aws
+[Documentation]
+description = "aws plugin for me"
+[Python]
+version = 3
+[Errbot]
+max = 5.1.2
